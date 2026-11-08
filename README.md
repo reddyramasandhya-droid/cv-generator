@@ -86,7 +86,7 @@ Then open http://127.0.0.1:8000/ in your browser.
 - Input validation and a mobile-friendly layout
 
 ## 📸 Screenshots
-| Form | Generated CV |
+| Form | 
 |---|---|
 | ![Form]<img width="1830" height="905" alt="Image" src="https://github.com/user-attachments/assets/514ace2d-a43a-43ed-b83f-1d4710b247c5" /> |
 | ![CV]<img width="1097" height="722" alt="Image" src="https://github.com/user-attachments/assets/16ba3105-67d7-417b-a5b2-a6a58d4f6069" /> |
