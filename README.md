@@ -5,6 +5,7 @@
 A Django web app where a user fills in a simple form and gets a ready-to-use CV as a PDF.
 
 🔗 **Live Demo:** https://ramasandhyareddy377.pythonanywhere.com
+
 💻 **Source Code:** https://github.com/reddyramasandhya-droid/cv-generator
 
 ---
