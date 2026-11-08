@@ -88,8 +88,8 @@ Then open http://127.0.0.1:8000/ in your browser.
 ## 📸 Screenshots
 | Form | Generated CV |
 |---|---|
-| ![Form] <img width="1097" height="722" alt="Image" src="https://github.com/user-attachments/assets/16ba3105-67d7-417b-a5b2-a6a58d4f6069" />
-<img width="1830" height="905" alt="Image" src="https://github.com/user-attachments/assets/514ace2d-a43a-43ed-b83f-1d4710b247c5" /> | ![CV]<img width="923" height="851" alt="Image" src="https://github.com/user-attachments/assets/49a3f29d-44ac-49fb-b194-1b8001b3dbea" /> |
+| ![Form]<img width="1830" height="905" alt="Image" src="https://github.com/user-attachments/assets/514ace2d-a43a-43ed-b83f-1d4710b247c5" /> 
+| ![CV]<img width="1097" height="722" alt="Image" src="https://github.com/user-attachments/assets/16ba3105-67d7-417b-a5b2-a6a58d4f6069" /> |
 
 ## 👩‍💻 Author
 **Somula Rama Sandhya**
