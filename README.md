@@ -58,7 +58,6 @@ pip install -r requirements.txt
 python manage.py migrate
 python manage.py runserver
 ```
-Then open http://127.0.0.1:8003/ in your browser.
 
 ## 🚀 Deployment on PythonAnywhere
 1. Clone the repo in a Bash console.
